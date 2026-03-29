@@ -1,0 +1,20 @@
+# Build artifacts
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.zip
+*.user
+
+# IDE files
+.vscode/
+*.sln
+
+# User files
+*.config.user
+
+# Temporary files
+*.tmp
+*.temp
+*.log
